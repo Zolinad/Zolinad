@@ -20,9 +20,11 @@
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zolinad/Zolinad&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zolinad/Zolinad&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zolinad&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolinad&layout=compact&langs_count=8)
 
 ---
 
