@@ -22,9 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zolinad&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolinad&layout=compact&langs_count=8)
+![Metrics](./github-metrics.svg)
 
 ---
 
