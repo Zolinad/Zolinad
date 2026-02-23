@@ -1,11 +1,10 @@
 # Hi, I'm Danilo Azevedo Figueiredo
 
-Data Scientist | Control & Automation Engineer  
-Industrial Analytics | Performance Strategy  
+Data Scientist | Control & Automation Engineer | Industrial Analytics | Performance Strategy  
 
 With 4 years of experience in large-scale industrial operations (Vale & Norsk Hydro) and 2 years as a University Professor in Artificial Intelligence and Data Science, I specialize in transforming operational and production data into performance-driven decision systems.
 
-My background combines Integrated Operations Center (IOC) monitoring, electronic mine dispatch systems, operational KPI governance, ETL/data engineering pipelines, and applied Machine Learning for production optimization across the mine-to-plant value chain.
+My background combines operational KPI governance, ETL/data engineering pipelines, and applied Machine Learning for production optimization across complex industrial operations, alongside academic experience as a university lecturer, delivering courses in Artificial Intelligence, Data Science, Project Management, and Managerial & Cost Accounting.
 
 ---
 
