@@ -1,42 +1,47 @@
-# 👋 Hi, I'm Danilo Azevedo Figueiredo
+# Hi, I'm Danilo Azevedo Figueiredo
 
 Data Scientist | Control & Automation Engineer  
 Industrial Analytics | Performance Strategy  
 
-With 4 years of experience in large-scale industrial activities (Vale & Norsk Hydro) and 2 years as a University Professor in Artificial Intelligence and Data Science, I specialize in transforming industrial and operational data into performance-driven decision systems.
+With 4 years of experience in large-scale industrial operations (Vale & Norsk Hydro) and 2 years as a University Professor in Artificial Intelligence and Data Science, I specialize in transforming operational and production data into performance-driven decision systems.
 
-My background combines Integrated Operations Center (IOC) monitoring, electronic dispatch systems, operational KPI governance, ETL pipelines, and applied Machine Learning for production optimization across the mine-to-plant value chain.
+My background combines Integrated Operations Center (IOC) monitoring, electronic mine dispatch systems, operational KPI governance, ETL/data engineering pipelines, and applied Machine Learning for production optimization across the mine-to-plant value chain.
 
 ---
 
-## 🎯 Industrial & Technical Expertise
+## Industrial & Technical Expertise
 
 - Operational Performance Indicators (KPIs)
 - Mine Dispatch & Integrated Operations Center Analytics
 - Industrial Process Monitoring & Optimization
-- ETL & Data Engineering Pipelines
+- ETL & Distributed Data Processing
 - Predictive & Unsupervised Machine Learning
 - Decision Support Systems for Production & Logistics
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🧠 Data Science
+### Data Engineering & Processing
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data_Science-1E4E79?style=for-the-badge)
 
-### 🏭 BI Tools
+### BI & Industrial Applications
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ☁️ Cloud & Engineering
+### Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,7 +49,7 @@ My background combines Integrated Operations Center (IOC) monitoring, electronic
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <img src="./github-metrics.svg" width="70%">
