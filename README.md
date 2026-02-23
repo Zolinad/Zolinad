@@ -1,13 +1,14 @@
-# 👋 Olá, eu sou o Danilo
+# 👋 Hi, I'm Danilo
 
-🎯 Cientista de Dados | Engenheiro de Controle e Automação  
-📊 Especialista em KPIs, Operações Integradas e Machine Learning  
-🏭 Experiência em mineração (planejamento e otimização operacional)  
-🎓 Professor de IA e Data Science  
+Data Scientist | Control & Automation Engineer  
+Operational Strategy | Industrial Analytics | Machine Learning  
+
+Experienced in mining operations, KPI structuring, integrated control rooms, and decision-support systems.  
+Former Professor of Artificial Intelligence and Data Science.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -18,25 +19,23 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Overview
 
-## 📊 GitHub Stats
-
-![Metrics](./github-metrics.svg)
+<img src="./github-metrics.svg" width="70%">
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-🔹 Data Science app didactics
-🔹 KPI-Tips AI Agent  
-🔹 Aplicações em MLOps
+🔹 **Data Science Didactic App** – Educational analytics applications  
+🔹 **KPI-Tips AI Agent** – AI-driven KPI assistant  
+🔹 **MLOps & Deployment Applications** – Production-ready ML workflows  
 
 ---
 
-## 🌎 Onde me encontrar
+## 🌎 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/danilo-a-fig
+[LinkedIn](https://www.linkedin.com/in/danilo-a-figueiredo)
 
 <!--
 **Zolinad/Zolinad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
