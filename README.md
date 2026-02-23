@@ -20,7 +20,13 @@ My background combines Integrated Operations Center (IOC) monitoring, electronic
 
 ---
 
-## Tech Stack
+## DATA SCIENCE tech Stack
+![Data Science](https://img.shields.io/badge/Data_Science-1E4E79?style=for-the-badge)
+
+<h2>
+DATA SCIENCE Tech Stack 
+<img src="https://img.shields.io/badge/Data_Science-1E4E79?style=for-the-badge">
+</h2>
 
 ### Data Engineering & Processing
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -32,12 +38,11 @@ My background combines Integrated Operations Center (IOC) monitoring, electronic
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Machine Learning & AI
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-1E4E79?style=for-the-badge)
 
-### BI & Industrial Applications
+### DAta visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
