@@ -28,24 +28,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-
-      - name: Remove "Followed by X users" from SVG
-        run: |
-          python - <<'PY'
-          import re
-          from pathlib import Path
-
-          p = Path("github-metrics.svg")
-          s = p.read_text(encoding="utf-8")
-
-          # Remove o bloco inteiro do "Followed by X users" (ícone + texto)
-          s2 = re.sub(
-              r'<div class="field">\s*<svg[\s\S]*?</svg>\s*Followed by\s*\d+\s*users\s*</div>',
-              '',
-              s,
-              flags=re.IGNORECASE
-          )
-
-          p.write_text(s2, encoding="utf-8")
-          print("OK: removed followers line" if s2 != s else "WARN: pattern not found (file unchanged)")
-          PY
