@@ -28,3 +28,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
+
+          # Remove apenas a linha "Followed by X users" do header
+          config_css: |
+            section .row section:first-child .field:nth-of-type(2) { display: none !important; }
