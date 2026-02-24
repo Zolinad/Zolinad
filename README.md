@@ -1,6 +1,6 @@
 # Hi, I'm Danilo Azevedo Figueiredo
 
-Data Scientist | Control & Automation Engineer | Industrial Analytics | Performance Strategy  
+Data Scientist | Control & Automation Engineer | Industrial and Business Analytics | Performance Strategy  
 
 With 4 years of experience in large-scale industrial operations (Vale & Norsk Hydro) and 2 years as a University Professor in Artificial Intelligence and Data Science, I specialize in transforming operational and production data into performance-driven decision systems.
 
