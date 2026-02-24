@@ -8,13 +8,12 @@ My background combines operational KPI governance, ETL/ELT and data engineering 
 
 ---
 
-## Industrial & Technical Expertise
+## Technical Expertise
 
 - Operational Performance Indicators (KPIs)
-- Mine Dispatch & Integrated Operations Center Analytics
 - Industrial Process Monitoring & Optimization
-- ETL & Distributed Data Processing
-- Predictive & Unsupervised Machine Learning
+- Data Engineering & Analytics
+- Supervised & Unsupervised Machine Learning
 - Decision Support Systems for Production & Logistics
 
 ---
