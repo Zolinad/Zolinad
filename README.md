@@ -39,7 +39,6 @@ My background combines operational KPI governance, ETL/ELT and data engineering 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
-![DMAIC](https://img.shields.io/badge/DMAIC-Data%20Driven-FF8C00?style=for-the-badge)
 ![DMAIC](https://img.shields.io/badge/DMAIC-Define%20Measure%20Analyze%20Improve%20Control-FF8C00?style=for-the-badge)
 
 ### Cloud & DevOps
