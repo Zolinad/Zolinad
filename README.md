@@ -2,9 +2,9 @@
 
 Data Scientist | Control & Automation Engineer | Industrial and Business Analytics | Performance Strategy  
 
-With 4 years of experience in large-scale industrial operations (Vale & Norsk Hydro) and 2 years as a University Professor in Artificial Intelligence and Data Science, I specialize in transforming operational and production data into performance-driven decision systems.
+With 4 years of experience in large-scale industrial operations (Vale & Norsk Hydro) and 2 years as a (University Professor at Federal University of Western Pará) in Artificial Intelligence and Data Science, I specialize in transforming operational and production data into performance-driven decision systems.
 
-My background combines operational KPI governance, ETL/data engineering pipelines, and applied Machine Learning for production optimization across complex industrial operations, alongside academic experience as a university lecturer, delivering courses in Artificial Intelligence, Data Science, Project Management, and Managerial & Cost Accounting.
+My background combines operational KPI governance, ETL/ELT and data engineering pipelines, alongside academic experience as a university lecturer, delivering courses in Artificial Intelligence, Data Science, Project Management, and Managerial & Cost Accounting.
 
 ---
 
@@ -35,9 +35,12 @@ My background combines operational KPI governance, ETL/data engineering pipeline
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Data visualization
+### Data-driven metrics and visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
+![DMAIC](https://img.shields.io/badge/DMAIC-Data%20Driven-FF8C00?style=for-the-badge)
+![DMAIC](https://img.shields.io/badge/DMAIC-Define%20Measure%20Analyze%20Improve%20Control-FF8C00?style=for-the-badge)
 
 ### Cloud & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
