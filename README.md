@@ -1,4 +1,4 @@
-# Hi, I'm Danilo Azevedo Figueiredo
+# Hi, I'm Danilo
 
 Data Scientist | Control & Automation Engineer | Industrial and Business Analytics | Performance Strategy  
 
